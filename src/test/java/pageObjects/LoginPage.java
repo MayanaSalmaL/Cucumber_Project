@@ -20,7 +20,7 @@ WebElement password;
 @FindBy(xpath="//button[@type='submit']")
 WebElement buttonLogin;
 
-
+//salma
 public void SetUserName(String uName) throws InterruptedException
 {
 emailId.clear();
